@@ -158,4 +158,4 @@ tail -10 /home/thomas/docker/nginx/data/nginx/logs/access.log
 
 ---
 
-Let me know if you'd like this exported to a file or converted into a README format!
+](https://thomaswildetech.com/blog/2025/03/09/nginx-in-docker-with-local-lets-encrypt-certs/?h=vaultwarden)
