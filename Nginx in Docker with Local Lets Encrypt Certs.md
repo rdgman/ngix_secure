@@ -1,7 +1,7 @@
 Nginx in Docker with Local Let's Encrypt Certs¶
 Docker Project folder
 
-
+<pre>
 ├── docker
 │   ├── nginx
 │   │   ├── docker-compose.yml
@@ -9,7 +9,9 @@ Docker Project folder
 │   │   ├── nginx.conf
 │   └── └── (any additional confs for server blocks)
 └────────────
-docker-compose.yml
+</pre>
+
+  docker-compose.yml
 
 services:
   nginx:
